@@ -29,7 +29,9 @@ Licensed under the BSD 3-Clause "New" or "Revised" License. For details, please 
 
 Please cite it as:
 
-1. Add your paper here
+1. M. Beg *et al.* Stable and manipulable Bloch point. [*Scientific Reports* **9**, 7959 (2019)](https://www.nature.com/articles/s41598-019-44462-2).
+
+2. M. Beg, *et al.* GitHub repository: Stable and manipulable Bloch point. (Version 1.0.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.2938933 (2019).
 
 ## Acknowledgements
 
