@@ -9,6 +9,10 @@ Marijan Beg<sup>1,2</sup>, Ryan A. Pepper<sup>2</sup>, David Cortés-Ortuño<sup
 | Binder | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/reproducible-micromagnetics/2019-stable-and-manipulable-bloch-point/master?filepath=index.ipynb) |
 | License | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
 
+## Abstract
+
+The prediction of magnetic skyrmions being used to change the way we store and process data has led to materials with Dzyaloshinskii-Moriya interaction coming into the focus of intensive research. So far, studies have looked mostly at magnetic systems composed of materials with single chirality. In a search for potential future spintronic devices, combination of materials with different chirality into a single system may represent an important new avenue for research. Using finite element micromagnetic simulations, we study an FeGe disk with two layers of different chirality. We show that for particular thicknesses of layers, a stable Bloch point emerges at the interface between two layers. In addition, we demonstrate that the system undergoes hysteretic behaviour and that two different types of Bloch point exist. These ‘head-to-head’ and ‘tail-to-tail’ Bloch point configurations can, with the application of an external magnetic field, be switched between. Finally, by investigating the time evolution of the magnetisation field, we reveal the creation mechanism of the Bloch point. Our results introduce a stable and manipulable Bloch point to the collection of particle-like state candidates for the development of future spintronic devices.
+
 ## About
 
 This repository provides Ubermag simulation code necessary to reproduce results from [Beg *et al.* Stable and manipulable Bloch point. *Scientific Reports*, **9**, 7959 (2019)](https://doi.org/10.1038/s41598-019-44462-2). All notebooks hosted in this repository can be run in the cloud and the results reproduced by anybody
