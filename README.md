@@ -1,5 +1,5 @@
 # Stable and manipulable Bloch point
-Marijan Beg<sup>1,2</sup> and Hans Fangohr<sup>1,2</sup>
+Marijan Beg<sup>1,2</sup>, Ryan A. Pepper<sup>2</sup>, David Cortés-Ortuño<sup>2</sup>, Bilal Atie<sup>2</sup>, Marc-Antonio Bisotti<sup>2</sup>, Gary Downing<sup>2</sup>, Thomas Kluyver<sup>2</sup>, Ondrej Hovorka<sup>2</sup>, and Hans Fangohr<sup>1,2</sup> 
 
 <sup>1</sup> *European XFEL GmbH, Holzkoppel 4, 22869 Schenefeld, Germany*  
 <sup>2</sup> *Faculty of Engineering and the Environment, University of Southampton, Southampton SO17 1BJ, United Kingdom*  
