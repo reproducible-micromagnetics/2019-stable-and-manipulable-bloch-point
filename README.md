@@ -15,11 +15,11 @@ The prediction of magnetic skyrmions being used to change the way we store and p
 
 ## About this repository
 
-This repository provides Ubermag simulation code necessary to reproduce results from [Beg *et al.* Stable and manipulable Bloch point. *Scientific Reports*, **9**, 7959 (2019)](https://doi.org/10.1038/s41598-019-44462-2). All notebooks hosted in this repository can be run in the cloud and the results reproduced by anybody
+This repository provides Ubermag simulation code necessary to reproduce results from [Beg *et al.* Stable and manipulable Bloch point. *Scientific Reports*, **9**, 7959 (2019)](https://doi.org/10.1038/s41598-019-44462-2). 
 
 ## Binder
 
-Jupyter notebooks hosted in this repository can be used in the cloud via Binder. This does not require you to have anything installed and no files will be created on your machine. To access Binder, use this [link](https://mybinder.org/v2/gh/reproducible-micromagnetics/2019-stable-and-manipulable-bloch-point/master?filepath=index.ipynb).
+Jupyter notebooks hosted in this repository can be executed and modified in the cloud via Binder. This does not require you to have anything installed and no files will be created on your machine. To access Binder, use this [link](https://mybinder.org/v2/gh/reproducible-micromagnetics/2019-stable-and-manipulable-bloch-point/master?filepath=index.ipynb).
 
 ## Support
 
@@ -31,7 +31,7 @@ Licensed under the BSD 3-Clause "New" or "Revised" License. For details, please 
 
 ## How to cite
 
-Please cite it as:
+Please cite the corresponding paper as:
 
 1. M. Beg *et al.* Stable and manipulable Bloch point. [*Scientific Reports* **9**, 7959 (2019)](https://www.nature.com/articles/s41598-019-44462-2).
 
